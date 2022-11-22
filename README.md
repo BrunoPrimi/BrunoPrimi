@@ -1,6 +1,6 @@
 ## Olá, Sou o Bruno Primi
 
-- 🌱 Estudando HTML5,CSS E C++
+- 🌱 Estudando HTML5,CSS 
  <div align="center">
   <a href="https://github.com/BrunoPrimi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoPrimi&show_icons=truee&theme=cobalt_all_commits=alse&count_private=true"/>
@@ -9,7 +9,7 @@
   <div style="display: inline_block"><br>
     <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img aling="center" alt="Bruno-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" >
+    
  <div/>
   
    ##
