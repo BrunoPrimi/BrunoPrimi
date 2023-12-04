@@ -1,10 +1,11 @@
 ## Olá, Sou o Bruno Primi
 
-- 🌱 Estudando HTML5,CSS 
+- 🌱 Estudando HTML5,CSS,C#,Framework .NET5,Java,JavaScript e DB em SQL
+- 🏫 Concluí meus estudos do ensino médio na ETEC Professor Camargo aranha, Ensino Médio com habilitação profissional técnico em Desenvolvimento de Sistemas.
  <div align="center">
   <a href="https://github.com/BrunoPrimi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoPrimi&show_icons=truee&theme=cobalt_all_commits=alse&count_private=true"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoPrimi&show_icons=truee&theme=transparent&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoPrimi&hide_progress=true&theme=transparent"/>
 </div>
  
   
