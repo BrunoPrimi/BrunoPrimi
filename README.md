@@ -11,7 +11,7 @@
   
     
   <div>
-  <a href="https://instagram.com/Bruno_Primi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-          badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/Bruno_Primi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-          badge&logo=instagram&logoColor=Dark" target="_blank"></a>
   <a href = "mailto:brunoreballo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-primi-reballo-916256224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    </div>
